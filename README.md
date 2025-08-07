@@ -18,4 +18,4 @@ Este projeto simula o preenchimento de dados de cartão de crédito usando JavaS
 ## Como Usar
 1. Clone o repositório para o seu ambiente local.
    ```bash
-   git clone https://github.com/seu-usuario/nome-do-repositorio.git
+   git clone https://github.com/Lorenzo-jaeger/Payment-Form-JS
